@@ -62,12 +62,6 @@ It also confirmed my passion for aviation analytics and my interest in pursuing 
 
 ---
 
-## 📌 Live Preview or Screenshots
-
-> *[Insert screenshots or export preview here]*  
-> *(Optional: upload Power BI PDF or embed screenshots in the repo)*
-
----
 
 ## 🧑‍💻 Author
 
