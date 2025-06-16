@@ -61,7 +61,6 @@ It also confirmed my passion for aviation analytics and my interest in pursuing 
 - Kaggle (base dataset)
 
 ---
-![Dashboard Preview](Airline Route Optimization & Performance Analysis.jpg)
 
 
 ## 🧑‍💻 Author
