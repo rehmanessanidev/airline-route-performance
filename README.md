@@ -1,44 +1,75 @@
-✈️ Airline Route Performance Analysis – Power BI Dashboard
-This project analyzes the performance of domestic U.S. airline routes using a simulated dataset sourced from Kaggle. The goal was to explore how different routes perform across key metrics—like revenue, load factor, aircraft type, and customer acquisition—and use those insights to recommend improvements in airline strategy.
+# ✈️ Airline Route Performance Analysis – Power BI Dashboard
 
-🎯 Project Goal
-To build an interactive Power BI dashboard that mirrors real-world airline analytics, similar to what a Revenue Management or Network Planning Analyst might create. The dashboard helps visualize route profitability, operational efficiency, and customer trends to support strategic decision-making.
+This project analyzes domestic U.S. airline routes using simulated flight data sourced from Kaggle. The dashboard visualizes key performance metrics such as revenue, load factor, and customer acquisition across multiple city pairs, helping replicate the type of analysis performed by revenue management and network planning analysts in the aviation industry.
 
-🔁 Workflow
-Data Sourcing: Used a Kaggle dataset as the base for simulating 30 days of flight activity across 8 domestic U.S. routes, including fields like fare, aircraft type, seats sold, and new customers.
+---
 
-Data Preparation: Cleaned and structured the dataset in Excel using pivot tables and calculated fields to summarize revenue, load factor, and customer trends.
+## 🎯 Project Goal
 
-Visualization in Power BI:
+To design a dynamic and interactive Power BI dashboard that evaluates the performance of airline routes based on real-world metrics and visual storytelling. The goal was to gain deeper insight into operational efficiency and revenue drivers at the route level and explore how data can inform better airline decisions.
 
-KPI Cards: Total Revenue, Avg Load Factor, New Customers
+---
 
-Charts: Bar charts, line charts, and column charts for route-level performance
+## 🔁 Workflow
 
-Slicers: Enabled dynamic filtering by route, aircraft, and date
+1. **Data Sourcing**:  
+   Dataset obtained via Kaggle and adapted to simulate 30 days of flight activity across 8 U.S. domestic routes.
 
-🧠 What I Learned
-Gained hands-on experience simulating and analyzing real-world airline KPIs such as Load Factor, Revenue, and Customer Acquisition.
+2. **Data Preparation**:  
+   Cleaned and structured in Excel using calculated columns and pivot tables to summarize revenue, customer volume, and load factor per route.
 
-Learned how to structure a dashboard that provides actionable insights using clean layout, interactive slicers, and visual storytelling.
+3. **Visualization** *(Power BI)*:
+   - KPI Cards: Total Revenue, Average Load Factor, New Customers
+   - Bar Charts: Route-level revenue
+   - Column Charts: Load Factor performance
+   - Line Charts: Customer acquisition over time
+   - Slicers: Route, Aircraft, and Date for interactive filtering
 
-Strengthened my skills in Power BI, Excel, and data visualization best practices.
+---
 
-Developed a deeper understanding of the metrics and decisions behind airline performance and capacity planning.
+## 🧠 Key Insights
 
-📊 Key Insights
-High-revenue routes didn't always have the highest load factors, indicating potential overcapacity or pricing issues.
+- High-revenue routes did not always have high load factors, indicating potential overcapacity or suboptimal pricing strategies.
+- Smaller aircraft (e.g., CRJ700) were more efficient on some routes, suggesting opportunities for better fleet deployment.
+- Weekly spikes in new customer acquisition suggested behavioral patterns or price-sensitive demand windows.
 
-Some smaller aircraft achieved better utilization on certain routes, highlighting opportunities for better fleet-to-route alignment.
+---
 
-Customer acquisition trends showed weekly spikes, suggesting targeted promotions could better align with demand surges.
+## 💡 Recommendations
 
-💡 Recommendations for Revenue Growth
-Reevaluate pricing strategies or flight frequency on underperforming high-revenue routes.
+- **Reevaluate pricing and capacity** on underperforming high-revenue routes to improve efficiency.
+- **Align aircraft selection** with route-level demand trends to boost load factors and reduce cost-per-seat.
+- **Capitalize on customer behavior** by launching promotions during natural demand surges.
 
-Optimize aircraft deployment on routes with consistently high load factors.
+---
 
-Launch marketing initiatives during periods of high new customer activity to boost retention and revenue.
+## 📈 Impact
 
-📈 Impact
-This project demonstrates how aviation data can drive smarter decisions in pricing, scheduling, and customer strategy. It showcases my ability to work with real-world airline metrics and present insights through a clean, interactive dashboard.
+This project helped strengthen my understanding of:
+- Real-world airline KPIs like load factor, revenue per route, and customer acquisition
+- Data storytelling through Power BI
+- How to simulate and explore airline data for operational insights
+
+It also confirmed my passion for aviation analytics and my interest in pursuing roles that combine commercial strategy, route planning, and revenue optimization in the airline industry.
+
+---
+
+## 🔧 Tools Used
+
+- Excel (data prep, pivot summaries)
+- Power BI (visualization, dashboard interactivity)
+- Kaggle (base dataset)
+
+---
+
+## 📌 Live Preview or Screenshots
+
+> *[Insert screenshots or export preview here]*  
+> *(Optional: upload Power BI PDF or embed screenshots in the repo)*
+
+---
+
+## 🧑‍💻 Author
+
+**Rehman Essani**  
+[LinkedIn](https://linkedin.com/in/abdulrehmanessani) | [GitHub](https://github.com/rehmanessanidev)
